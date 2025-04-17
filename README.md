@@ -20,7 +20,7 @@
 ### 通过Composer安装
 
 ```bash
-composer require your-vendor/deep-research-core
+composer require MolaGPT/deep-research-core
 ```
 
 ## 快速开始
