@@ -1,5 +1,5 @@
 {
-    "name": "MolaGPT/deep-research-core",
+    "name": "molagpt/deep-research-core",
     "description": "一个用于执行多轮搜索与深度分析的PHP库，专为AI Agent开发者设计",
     "type": "library",
     "license": "MIT",
